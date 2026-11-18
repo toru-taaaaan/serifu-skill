@@ -86,6 +86,14 @@
 - **元の資料に忠実に**：記事にない事実や数字は作りません
 - **立場を取らない**：意見が分かれる話題では、事実だけを伝えます
 
+## データの扱い（プライバシー）
+
+- このスキルは、あなたが渡した文章やURLを、あなたの使っている Claude の中で会話に書き直すだけです。作者や他のサービスにデータを送ることはありません
+- 個人情報を集めたり、保存したりしません
+- 使った記録（何をどんな会話にしたかの短いメモ）は、ファイルを書ける環境でだけ、あなたのパソコンの中に残ります。外には出ません
+
+**Privacy:** This skill only rewrites the text or URL you give it, inside your own Claude session. It sends no data to the author or any other service, and collects no personal data. Short usage notes are saved only on your own computer, where file writing is available.
+
 ## 作った人
 
 丹治 統（[@torutanji](https://x.com/torutanji)）。非エンジニアです。紹介記事はnoteに書いています：[面倒な文章を10倍ラクに読む方法。AIに先輩と後輩の会話にさせるだけ](https://note.com/tourutanji/n/n859d5e3a45c9)
