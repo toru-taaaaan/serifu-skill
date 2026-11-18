@@ -40,11 +40,18 @@
 
 ## 使い方（Claude Code）
 
-1. ターミナルで次の2行を実行して、スキルを入れます（`~/.claude/skills/serifu/` に置かれます）。
+1. Claude Code で、次の2つを実行して入れます。
+
+   ```
+   /plugin marketplace add toru-taaaaan/serifu-skill
+   /plugin install serifu@serifu-skill
+   ```
+
+   プラグインを使わずに入れたいときは、ターミナルで次の2行でも入ります（`~/.claude/skills/serifu/` に置かれます）。
 
    ```
    git clone https://github.com/toru-taaaaan/serifu-skill.git
-   mkdir -p ~/.claude/skills && cp -R serifu-skill/serifu ~/.claude/skills/
+   mkdir -p ~/.claude/skills && cp -R serifu-skill/skills/serifu ~/.claude/skills/
    ```
 
 2. Claude Code で、読みにくい文章やURLを渡して「セリフで」と頼みます。
@@ -53,7 +60,7 @@
    この文章をセリフで（ここに文章やURLを貼る）
    ```
 
-`references/past-runs/` には、使うたびに短い記録がたまります。次に使うときはその記録を読むので、使うほどあなた好みのテンポに近づきます。
+使うたびに、何をどんな会話にしたかの短い記録がたまります（プラグインならプラグイン用のデータフォルダ、直接入れた場合はスキルの `references/past-runs/`）。次に使うときはその記録を読むので、使うほどあなた好みのテンポに近づきます。
 
 ## スキルを入れずに試す（ChatGPT・Claude など）
 

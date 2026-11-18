@@ -1,0 +1,14 @@
+{
+  "name": "serifu-skill",
+  "description": "serifu（セリフ）スキルの配布元",
+  "owner": {
+    "name": "Toru Tanji"
+  },
+  "plugins": [
+    {
+      "name": "serifu",
+      "source": "./",
+      "description": "長くて難しい文章を、マンガのような2人の掛け合いに変える"
+    }
+  ]
+}

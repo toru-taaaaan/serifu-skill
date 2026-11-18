@@ -1,0 +1,20 @@
+{
+  "name": "serifu",
+  "displayName": "serifu（セリフ）",
+  "version": "1.0.0",
+  "description": "Turns long, dense Japanese text into a lively two-person manga-style dialogue full of everyday analogies. 長くて難しい文章を、例え話たっぷりの2人の掛け合いに変える。",
+  "author": {
+    "name": "Toru Tanji",
+    "url": "https://x.com/torutanji"
+  },
+  "homepage": "https://note.com/tourutanji/n/n859d5e3a45c9",
+  "repository": "https://github.com/toru-taaaaan/serifu-skill",
+  "license": "MIT",
+  "keywords": [
+    "japanese",
+    "summary",
+    "dialogue",
+    "manga",
+    "explanation"
+  ]
+}
