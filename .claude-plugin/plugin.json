@@ -16,5 +16,6 @@
     "dialogue",
     "manga",
     "explanation"
-  ]
+  ],
+  "icon": "./.claude-plugin/icon.jpg"
 }
