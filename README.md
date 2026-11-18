@@ -83,6 +83,8 @@
 
 丹治 統（[@torutanji](https://x.com/torutanji)）。非エンジニアです。紹介記事はnoteに書いています：[面倒な文章を10倍ラクに読む方法。AIに先輩と後輩の会話にさせるだけ](https://note.com/tourutanji/n/n859d5e3a45c9)
 
+返事を日本語の声で読み上げるプラグイン「[yomiage](https://github.com/toru-taaaaan/yomiage)」も公開しています。セリフにした文章を、耳で聞けます。
+
 ## ライセンス
 
 MIT License（`LICENSE` を参照）
